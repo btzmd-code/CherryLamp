@@ -144,6 +144,14 @@ button span{
     margin-left: 31px;
 }
 
+@media only screen and (max-width: 600px) {
+    nav .menu-img,
+    nav .logo {
+      width: auto
+    }
+}
+
+
 .on{
     opacity: 1;
 }
